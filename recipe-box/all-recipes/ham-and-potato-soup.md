@@ -53,6 +53,6 @@ Vitamin C:  18.2g
 Calcium:  75g
 Iron:  2.1g
 
-[Back To Recipes By Categories] (../index.md)
+[Back To Recipes By Categories](../index.md)
 
 **Categories:** [Soups](../soups.md)
