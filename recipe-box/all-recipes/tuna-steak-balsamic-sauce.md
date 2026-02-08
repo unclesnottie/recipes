@@ -35,6 +35,6 @@ Tips
 1.  Don't over season!  The measurements are for 4 tuna steaks, if making only 2, cut the dry ingredients in half.
 
 
-[Back To Recipes By Categories] (../index.md)
+[Back To Recipes By Categories](../index.md)
 
-**Categories:** [Seafood] (../seafood.md)
+**Categories:** [Seafood](../seafood.md)

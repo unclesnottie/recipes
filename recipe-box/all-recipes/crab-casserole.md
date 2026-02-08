@@ -29,6 +29,6 @@ Tips
 4.  You may need to make an extra half recipe of the butter, flour, milk, cream, mustard and worcestershire mixture. Make enough to cover the crab meat completely.
 5.  Add a couple thin pats of butter to the top for a nice golden brown top.
 
-[Back To Recipes By Categories] (../index.md)
+[Back To Recipes By Categories](../index.md)
 
-**Categories:** [Seafood] (../seafood.md)
+**Categories:** [Seafood](../seafood.md)

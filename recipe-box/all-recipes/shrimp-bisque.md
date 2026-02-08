@@ -61,3 +61,7 @@ Tips
 3.  Double the shrimp or lobster.  Add half before blending for more texture and flavor.
 4.  Serve with fresh italian or french bread for dipping.
 
+
+[Back To Recipes By Categories](../index.md)
+
+**Categories:** [Seafood](../seafood.md), [Soups](../soups.md)

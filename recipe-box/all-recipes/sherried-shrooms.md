@@ -36,6 +36,6 @@ Tips
 1.  numbered list of tips
 
 
-[Back To Recipes By Categories] (../index.md)
+[Back To Recipes By Categories](../index.md)
 
-**Categories:** list of categories like: [Appetizers] (../appetizers.md), [Seafood] (../seafood.md)
+**Categories:** [Appetizers](../appetizers.md)
