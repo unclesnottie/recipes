@@ -55,4 +55,4 @@ Iron:  2.1g
 
 [Back To Recipes By Categories] (../index.md)
 
-**Categories:** [Seafood] (../seafood.md)
+**Categories:** [Soup](../soup.md)
