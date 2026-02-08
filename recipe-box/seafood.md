@@ -5,4 +5,4 @@ Seafood Recipes
 * [Spice-Rubbed Tuna Steak with Balsamic Reduction](all-recipes/tuna-steak-balsamic-sauce.md)  
 * [Shrimp (or Lobster) Bisque](all-recipes/shrimp-bisque.md)
 
-[Back To Recipes By Categories](../index.md)
+[Back To Recipes By Categories](index.md)
